@@ -1,6 +1,6 @@
 README
 
-The code was tested throug ssh on carminati@sachiel.dei.polimi.it
+The code was tested throug ssh on polimi server
 
 To create the string.txt file compile and run cosine.c
 
